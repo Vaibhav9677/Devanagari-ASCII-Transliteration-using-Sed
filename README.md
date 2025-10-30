@@ -165,4 +165,4 @@ Key goals:
 
 | Devanagari Input | ASCII Output |
 |------------------|--------------|
-| ![Devanagari Input](./Devanagari-ASCII-Transliteration-using-Sed/Demo_Devanagri_input.png) | ![ASCII Output](./Devanagari-ASCII-Transliteration-using-Sed/Demo_ASSCI_OutPut.png) |
+| ![Devanagari Input](./Demo_Devanagri_input.png) | ![ASCII Output](./Demo_ASSCI_OutPut.png) |
