@@ -1,0 +1,3 @@
+#!bin/bash
+
+sed -f devtoUni $1 | sed -f Unitobin | sed -f AsscitoBin > $2

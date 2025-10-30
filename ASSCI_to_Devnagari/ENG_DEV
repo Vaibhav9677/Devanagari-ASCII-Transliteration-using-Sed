@@ -1,0 +1,3 @@
+#!bin/bash
+
+sed -f AsscitoBin $1 | sed -f bintouni | sed -f Unitodev > $2 | gedit $2
