@@ -26,7 +26,7 @@ Each module executes a multi-step transformation using Linux tools and pipelines
 ---
 
 ## 🧩 Folder Structure
-
+```
 Devanagari-ASCII-Transliteration-using-Sed/
 │
 ├── ASSCI_to_Devnagari/
@@ -53,7 +53,7 @@ Devanagari-ASCII-Transliteration-using-Sed/
 ├── Demo_ASSCI_OutPut.png
 ├── Mapping_file
 └── README.md # Main documentation
-
+```
 ---
 ## 🔡 Character Mapping (Devanagari ↔ ASCII)
 
